@@ -18,7 +18,7 @@ DeepL APIを使用して、フォルダ名とファイル名を日本語に翻�
 
 1. リポジトリをクローン
 ```bash
-git clone https://github.com/yourusername/folder-translator.git
+git clone https://github.com/damseleng/folder-translator
 cd folder-translator
 ```
 
